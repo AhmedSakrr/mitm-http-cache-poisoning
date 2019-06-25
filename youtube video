@@ -1,1 +1,9 @@
 https://www.youtube.com/watch?v=1uQ7EPSlfDs
+
+
+Thanks to etherDream for implementing the source code for this demo. https://github.com/EtherDream/mitm-ht...
+
+Two corrections:
+1. The poison only works for urls specified in url.txt
+2. You don't need to open a website for sniffing to work. It will load automatically for urls from the url.txt
+Thanks for watching.
